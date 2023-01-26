@@ -1,2 +1,2 @@
 # Teamup
-Wordpress website for teamup project
+Stronka na ZPI 
